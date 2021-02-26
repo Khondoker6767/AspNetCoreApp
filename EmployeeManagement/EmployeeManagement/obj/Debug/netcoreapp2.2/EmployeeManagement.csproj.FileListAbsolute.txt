@@ -1,0 +1,238 @@
+E:\KHONDOKER\Farhad\ASP.Core\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\appsettings.Development.json
+E:\KHONDOKER\Farhad\ASP.Core\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\appsettings.json
+E:\KHONDOKER\Farhad\ASP.Core\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\EmployeeManagement.deps.json
+E:\KHONDOKER\Farhad\ASP.Core\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\EmployeeManagement.runtimeconfig.json
+E:\KHONDOKER\Farhad\ASP.Core\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\EmployeeManagement.runtimeconfig.dev.json
+E:\KHONDOKER\Farhad\ASP.Core\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\EmployeeManagement.dll
+E:\KHONDOKER\Farhad\ASP.Core\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\EmployeeManagement.pdb
+E:\KHONDOKER\Farhad\ASP.Core\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.csprojAssemblyReference.cache
+E:\KHONDOKER\Farhad\ASP.Core\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.AssemblyInfoInputs.cache
+E:\KHONDOKER\Farhad\ASP.Core\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.AssemblyInfo.cs
+E:\KHONDOKER\Farhad\ASP.Core\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.csproj.CoreCompileInputs.cache
+E:\KHONDOKER\Farhad\ASP.Core\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.RazorAssemblyInfo.cache
+E:\KHONDOKER\Farhad\ASP.Core\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.RazorAssemblyInfo.cs
+E:\KHONDOKER\Farhad\ASP.Core\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.RazorTargetAssemblyInfo.cache
+E:\KHONDOKER\Farhad\ASP.Core\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.dll
+E:\KHONDOKER\Farhad\ASP.Core\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.pdb
+E:\KHONDOKER\Farhad\ASP.Core\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.genruntimeconfig.cache
+E:\KHONDOKER\Farhad\ASP.Core\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\libman.json
+E:\KHONDOKER\Farhad\ASP.Core\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\EmployeeManagement.Views.dll
+E:\KHONDOKER\Farhad\ASP.Core\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\EmployeeManagement.Views.pdb
+E:\KHONDOKER\Farhad\ASP.Core\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.TagHelpers.input.cache
+E:\KHONDOKER\Farhad\ASP.Core\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.TagHelpers.output.cache
+E:\KHONDOKER\Farhad\ASP.Core\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.RazorCoreGenerate.cache
+E:\KHONDOKER\Farhad\ASP.Core\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.RazorTargetAssemblyInfo.cs
+E:\KHONDOKER\Farhad\ASP.Core\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.Views.pdb
+E:\KHONDOKER\Farhad\ASP.Core\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.csproj.CopyComplete
+E:\KHONDOKER\Farhad\ASP.Core\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+E:\KHONDOKER\Farhad\ASP.Core\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\KHONDOKER\Farhad\ASP.Core\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+E:\KHONDOKER\Farhad\ASP.Core\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Details.cshtml.g.cs
+E:\KHONDOKER\Farhad\ASP.Core\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Index.cshtml.g.cs
+E:\KHONDOKER\Farhad\ASP.Core\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+E:\KHONDOKER\Farhad\ASP.Core\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Create.cshtml.g.cs
+E:\KHONDOKER\Farhad\ASP.Core\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Edit.cshtml.g.cs
+E:\KHONDOKER\Farhad\ASP.Core\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.cshtml.g.cs
+E:\KHONDOKER\Farhad\ASP.Core\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\KHONDOKER\Farhad\ASP.Core\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.cshtml.g.cs
+E:\KHONDOKER\Farhad\ASP.Core\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Administrator\CreateRole.cshtml.g.cs
+E:\KHONDOKER\Farhad\ASP.Core\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Administrator\ListOfRoles.cshtml.g.cs
+E:\KHONDOKER\Farhad\ASP.Core\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Administrator\EditRole.cshtml.g.cs
+G:\ASP.NetCore\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\appsettings.Development.json
+G:\ASP.NetCore\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\libman.json
+G:\ASP.NetCore\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\appsettings.json
+G:\ASP.NetCore\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\EmployeeManagement.deps.json
+G:\ASP.NetCore\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\EmployeeManagement.runtimeconfig.json
+G:\ASP.NetCore\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\EmployeeManagement.runtimeconfig.dev.json
+G:\ASP.NetCore\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\EmployeeManagement.dll
+G:\ASP.NetCore\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\EmployeeManagement.pdb
+G:\ASP.NetCore\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\EmployeeManagement.Views.dll
+G:\ASP.NetCore\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\EmployeeManagement.Views.pdb
+G:\ASP.NetCore\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.csprojAssemblyReference.cache
+G:\ASP.NetCore\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.AssemblyInfoInputs.cache
+G:\ASP.NetCore\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.AssemblyInfo.cs
+G:\ASP.NetCore\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.csproj.CoreCompileInputs.cache
+G:\ASP.NetCore\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.RazorAssemblyInfo.cache
+G:\ASP.NetCore\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.RazorAssemblyInfo.cs
+G:\ASP.NetCore\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.TagHelpers.input.cache
+G:\ASP.NetCore\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.TagHelpers.output.cache
+G:\ASP.NetCore\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.RazorCoreGenerate.cache
+G:\ASP.NetCore\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.cshtml.g.cs
+G:\ASP.NetCore\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.cshtml.g.cs
+G:\ASP.NetCore\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Administrator\CreateRole.cshtml.g.cs
+G:\ASP.NetCore\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Administrator\EditRole.cshtml.g.cs
+G:\ASP.NetCore\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Administrator\ListOfRoles.cshtml.g.cs
+G:\ASP.NetCore\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Create.cshtml.g.cs
+G:\ASP.NetCore\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Details.cshtml.g.cs
+G:\ASP.NetCore\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Edit.cshtml.g.cs
+G:\ASP.NetCore\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Index.cshtml.g.cs
+G:\ASP.NetCore\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Home\Details.cshtml.g.cs
+G:\ASP.NetCore\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+G:\ASP.NetCore\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\ASP.NetCore\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\ASP.NetCore\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+G:\ASP.NetCore\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+G:\ASP.NetCore\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.RazorTargetAssemblyInfo.cache
+G:\ASP.NetCore\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.RazorTargetAssemblyInfo.cs
+G:\ASP.NetCore\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.Views.pdb
+G:\ASP.NetCore\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.dll
+G:\ASP.NetCore\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.pdb
+G:\ASP.NetCore\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.genruntimeconfig.cache
+G:\ASP.NetCore\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.csproj.CopyComplete
+G:\AspCorePractice\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\appsettings.Development.json
+G:\AspCorePractice\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\appsettings.json
+G:\AspCorePractice\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\libman.json
+G:\AspCorePractice\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\EmployeeManagement.deps.json
+G:\AspCorePractice\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\EmployeeManagement.runtimeconfig.json
+G:\AspCorePractice\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\EmployeeManagement.runtimeconfig.dev.json
+G:\AspCorePractice\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\EmployeeManagement.dll
+G:\AspCorePractice\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\EmployeeManagement.pdb
+G:\AspCorePractice\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\EmployeeManagement.Views.dll
+G:\AspCorePractice\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\EmployeeManagement.Views.pdb
+G:\AspCorePractice\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.csprojAssemblyReference.cache
+G:\AspCorePractice\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.AssemblyInfoInputs.cache
+G:\AspCorePractice\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.AssemblyInfo.cs
+G:\AspCorePractice\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.csproj.CoreCompileInputs.cache
+G:\AspCorePractice\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.RazorAssemblyInfo.cache
+G:\AspCorePractice\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.RazorAssemblyInfo.cs
+G:\AspCorePractice\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.TagHelpers.input.cache
+G:\AspCorePractice\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.TagHelpers.output.cache
+G:\AspCorePractice\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.RazorCoreGenerate.cache
+G:\AspCorePractice\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.cshtml.g.cs
+G:\AspCorePractice\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.cshtml.g.cs
+G:\AspCorePractice\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Administrator\CreateRole.cshtml.g.cs
+G:\AspCorePractice\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Administrator\EditRole.cshtml.g.cs
+G:\AspCorePractice\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Administrator\ListOfRoles.cshtml.g.cs
+G:\AspCorePractice\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Create.cshtml.g.cs
+G:\AspCorePractice\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Details.cshtml.g.cs
+G:\AspCorePractice\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Edit.cshtml.g.cs
+G:\AspCorePractice\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Index.cshtml.g.cs
+G:\AspCorePractice\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Home\Details.cshtml.g.cs
+G:\AspCorePractice\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+G:\AspCorePractice\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\AspCorePractice\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\AspCorePractice\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+G:\AspCorePractice\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+G:\AspCorePractice\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.RazorTargetAssemblyInfo.cache
+G:\AspCorePractice\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.RazorTargetAssemblyInfo.cs
+G:\AspCorePractice\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.Views.pdb
+G:\AspCorePractice\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.dll
+G:\AspCorePractice\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.pdb
+G:\AspCorePractice\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.genruntimeconfig.cache
+G:\AspCorePractice\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.csproj.CopyComplete
+C:\Users\ussl\Documents\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.csprojAssemblyReference.cache
+C:\Users\ussl\Documents\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.AssemblyInfoInputs.cache
+C:\Users\ussl\Documents\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.AssemblyInfo.cs
+C:\Users\ussl\Documents\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.csproj.CoreCompileInputs.cache
+C:\Users\ussl\Documents\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.RazorAssemblyInfo.cache
+C:\Users\ussl\Documents\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.RazorAssemblyInfo.cs
+C:\Users\ussl\Documents\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.dll
+C:\Users\ussl\Documents\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.pdb
+C:\Users\ussl\Documents\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\ussl\Documents\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\ussl\Documents\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\libman.json
+C:\Users\ussl\Documents\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\EmployeeManagement.deps.json
+C:\Users\ussl\Documents\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\EmployeeManagement.runtimeconfig.json
+C:\Users\ussl\Documents\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\EmployeeManagement.runtimeconfig.dev.json
+C:\Users\ussl\Documents\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\EmployeeManagement.dll
+C:\Users\ussl\Documents\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\EmployeeManagement.pdb
+C:\Users\ussl\Documents\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\EmployeeManagement.Views.dll
+C:\Users\ussl\Documents\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\EmployeeManagement.Views.pdb
+C:\Users\ussl\Documents\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.TagHelpers.input.cache
+C:\Users\ussl\Documents\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.TagHelpers.output.cache
+C:\Users\ussl\Documents\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.RazorCoreGenerate.cache
+C:\Users\ussl\Documents\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\ussl\Documents\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\ussl\Documents\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Administrator\CreateRole.cshtml.g.cs
+C:\Users\ussl\Documents\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Administrator\EditRole.cshtml.g.cs
+C:\Users\ussl\Documents\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Administrator\ListOfRoles.cshtml.g.cs
+C:\Users\ussl\Documents\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\AjaxCRUD\Index.cshtml.g.cs
+C:\Users\ussl\Documents\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Create.cshtml.g.cs
+C:\Users\ussl\Documents\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Details.cshtml.g.cs
+C:\Users\ussl\Documents\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Edit.cshtml.g.cs
+C:\Users\ussl\Documents\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Index.cshtml.g.cs
+C:\Users\ussl\Documents\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Grade\AddGrade.cshtml.g.cs
+C:\Users\ussl\Documents\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Grade\DeleteGrate.cshtml.g.cs
+C:\Users\ussl\Documents\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Grade\EditGrade.cshtml.g.cs
+C:\Users\ussl\Documents\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Grade\GradeList.cshtml.g.cs
+C:\Users\ussl\Documents\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\ussl\Documents\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ussl\Documents\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Player\Create.cshtml.g.cs
+C:\Users\ussl\Documents\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Player\Delete.cshtml.g.cs
+C:\Users\ussl\Documents\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Player\Edit.cshtml.g.cs
+C:\Users\ussl\Documents\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Player\Index.cshtml.g.cs
+C:\Users\ussl\Documents\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_DetailsRecord.cshtml.g.cs
+C:\Users\ussl\Documents\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ussl\Documents\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_PlayerDetailsPartial.cshtml.g.cs
+C:\Users\ussl\Documents\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ussl\Documents\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ussl\Documents\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ussl\Documents\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.RazorTargetAssemblyInfo.cache
+C:\Users\ussl\Documents\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.RazorTargetAssemblyInfo.cs
+C:\Users\ussl\Documents\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.Views.pdb
+C:\Users\ussl\Documents\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.genruntimeconfig.cache
+C:\Users\ussl\Documents\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.csproj.CopyComplete
+C:\Users\ussl\Documents\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Account\AccessDenied.cshtml.g.cs
+H:\PROJECT\Untitled folder\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\appsettings.Development.json
+H:\PROJECT\Untitled folder\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\libman.json
+H:\PROJECT\Untitled folder\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\appsettings.json
+H:\PROJECT\Untitled folder\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\EmployeeManagement.deps.json
+H:\PROJECT\Untitled folder\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\EmployeeManagement.runtimeconfig.json
+H:\PROJECT\Untitled folder\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\EmployeeManagement.runtimeconfig.dev.json
+H:\PROJECT\Untitled folder\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\EmployeeManagement.dll
+H:\PROJECT\Untitled folder\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\EmployeeManagement.pdb
+H:\PROJECT\Untitled folder\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\EmployeeManagement.Views.dll
+H:\PROJECT\Untitled folder\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\EmployeeManagement.Views.pdb
+H:\PROJECT\Untitled folder\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.csprojAssemblyReference.cache
+H:\PROJECT\Untitled folder\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.AssemblyInfoInputs.cache
+H:\PROJECT\Untitled folder\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.AssemblyInfo.cs
+H:\PROJECT\Untitled folder\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.csproj.CoreCompileInputs.cache
+H:\PROJECT\Untitled folder\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.RazorAssemblyInfo.cache
+H:\PROJECT\Untitled folder\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.RazorAssemblyInfo.cs
+H:\PROJECT\Untitled folder\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.TagHelpers.input.cache
+H:\PROJECT\Untitled folder\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.TagHelpers.output.cache
+H:\PROJECT\Untitled folder\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.RazorCoreGenerate.cache
+H:\PROJECT\Untitled folder\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Account\AccessDenied.cshtml.g.cs
+H:\PROJECT\Untitled folder\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.cshtml.g.cs
+H:\PROJECT\Untitled folder\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.cshtml.g.cs
+H:\PROJECT\Untitled folder\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Administrator\CreateRole.cshtml.g.cs
+H:\PROJECT\Untitled folder\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Administrator\EditRole.cshtml.g.cs
+H:\PROJECT\Untitled folder\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Administrator\ListOfRoles.cshtml.g.cs
+H:\PROJECT\Untitled folder\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Create.cshtml.g.cs
+H:\PROJECT\Untitled folder\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Details.cshtml.g.cs
+H:\PROJECT\Untitled folder\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Edit.cshtml.g.cs
+H:\PROJECT\Untitled folder\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Index.cshtml.g.cs
+H:\PROJECT\Untitled folder\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Home\Details.cshtml.g.cs
+H:\PROJECT\Untitled folder\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+H:\PROJECT\Untitled folder\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+H:\PROJECT\Untitled folder\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+H:\PROJECT\Untitled folder\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+H:\PROJECT\Untitled folder\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+H:\PROJECT\Untitled folder\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.RazorTargetAssemblyInfo.cache
+H:\PROJECT\Untitled folder\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.RazorTargetAssemblyInfo.cs
+H:\PROJECT\Untitled folder\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.Views.pdb
+H:\PROJECT\Untitled folder\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.dll
+H:\PROJECT\Untitled folder\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.pdb
+H:\PROJECT\Untitled folder\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.genruntimeconfig.cache
+H:\PROJECT\Untitled folder\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.csproj.CopyComplete
+H:\PROJECT\Untitled folder\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Administrator\EditUserInRole.cshtml.g.cs
+H:\PROJECT\Untitled folder\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Delete.cshtml.g.cs
+H:\PROJECT\Untitled folder\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\AjaxCrud\Index.cshtml.g.cs
+H:\PROJECT\Untitled folder\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\AjaxCrud\Index1.cshtml.g.cs
+H:\PROJECT\Untitled folder\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\AjaxCrud\Index2.cshtml.g.cs
+H:\PROJECT\Untitled folder\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Create.cshtml.g.cs
+H:\PROJECT\Untitled folder\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Delete.cshtml.g.cs
+H:\PROJECT\Untitled folder\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Details.cshtml.g.cs
+H:\PROJECT\Untitled folder\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Edit.cshtml.g.cs
+H:\PROJECT\Untitled folder\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Index.cshtml.g.cs
+H:\PROJECT\Untitled folder\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Grade\AddGrade.cshtml.g.cs
+H:\PROJECT\Untitled folder\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Grade\DeleteGrate.cshtml.g.cs
+H:\PROJECT\Untitled folder\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Grade\EditGrade.cshtml.g.cs
+H:\PROJECT\Untitled folder\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Grade\GradeList.cshtml.g.cs
+H:\PROJECT\Untitled folder\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Player\Create.cshtml.g.cs
+H:\PROJECT\Untitled folder\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Player\Delete.cshtml.g.cs
+H:\PROJECT\Untitled folder\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Player\Edit.cshtml.g.cs
+H:\PROJECT\Untitled folder\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Player\Index.cshtml.g.cs
+H:\PROJECT\Untitled folder\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+H:\PROJECT\Untitled folder\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_DetailsRecord.cshtml.g.cs
+H:\PROJECT\Untitled folder\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_PlayerDetailsPartial.cshtml.g.cs

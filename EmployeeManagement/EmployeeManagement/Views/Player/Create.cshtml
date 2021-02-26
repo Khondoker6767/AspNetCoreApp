@@ -1,0 +1,99 @@
+﻿@model CoreProject.Models.ViewModes.CreatePlayerModel
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<link href="~/CustomUi/jquery-ui.css" rel="stylesheet" />
+<link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+<hr />
+<hr />
+<br />
+<h4 style="text-align:center;background-color:aquamarine;color:darkblue">NEW EMPLOYEE</h4>
+
+
+<div class="main">
+    <section class="signup">
+        <div class="container-fluid">
+            <div class="signup-content">
+                <div class="signup-form">
+                    <h2 class="form-title" style="color:green">EMPLOYEE INFO<b style="color:black">-</b> FORM</h2>
+                    <form asp-action="AddOrEdit" asp-controller="Player" enctype="multipart/form-data" method="post">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <div class="form-group">
+                            <label asp-for="Name"><i class="zmdi zmdi-account material-icons-name"></i></label>
+                            <input asp-for="Name" name="Email" id="name" placeholder="Your Name" />
+                            <span asp-validation-for="Name" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="DoB"><i class="zmdi zmdi-account material-icons-name"></i></label>
+                            <input asp-for="DoB" name="Password" id="name" placeholder="Date of Birth" />
+                            <span asp-validation-for="DoB" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Email"><i class="zmdi zmdi-account material-icons-name"></i></label>
+                            <input asp-for="Email" name="ConfirmPassword" id="name" placeholder="Your Mail" />
+                            <span asp-validation-for="Email" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Salary"><i class="zmdi zmdi-account material-icons-name"></i></label>
+                            <input asp-for="Salary" name="ConfirmPassword" id="name" placeholder="Initial Salary" />
+                            <span asp-validation-for="Salary" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <img src="~/Images/signup-image.jpg" height="80" width="75" class="change_edit" />
+                            <input type="file" name="ImageFile" class="form-control changeImage" />
+                            <span asp-validation-for="ImageUrl" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            @Html.DropDownListFor(p => p.GradeID, new SelectList(Model.gradeList, "GradeID", "GradeName"), "Select One")
+                            @Html.ValidationMessageFor(p => p.GradeID, "", new { @class = "text-danger" })
+                        </div>
+                        <div class="form-group">
+                            <input type="submit" value="Save" class="btn btn-outline-primary" />
+                        </div>
+                    </form>
+                </div>
+                <div class="signup-image">
+                    <div class="col-md-10">
+                        <figure><img src="~/Images/signup-image.jpg" alt="sing up image" class="change_edit"></figure>
+                        <input type="file" name="ImageFile" class="form-control changeImage" />
+                        <span asp-validation-for="ImageUrl" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+<script src="~/jquery/jquery.js"></script>
+@*<script src="~/lib/jqueryui/jquery-ui.min.js"></script>*@
+<script src="~/jqueryui/jquery-ui.min.js"></script>
+<script src="~/bootstrap/js/bootstrap.js"></script>
+<script>
+    $(document).ready(function () {
+        $("#DoB").datepicker({
+            changeMonth: true, changeYear: true
+        });
+    })
+    $(function () {
+        $('.changeImage').change(function () {
+            var input = this;
+            if (input.files) {
+                var reader = new FileReader();
+                reader.onload = function (e) {
+                    $('.change_edit').attr('src', e.target.result);
+                }
+                reader.readAsDataURL(input.files[0]);
+            }
+
+        })
+    })
+</script>

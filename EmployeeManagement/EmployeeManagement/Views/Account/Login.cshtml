@@ -1,0 +1,55 @@
+﻿@model EmployeeManagement.Models.ViewModels.LoginViewModel
+
+@{
+    ViewData["Title"] = "Login";
+}
+
+<hr />
+
+<div class="display-flex-center">
+    <section class="sign-in">
+        <div class="container-fluid">
+            <div class="signin-content">
+                <div class="signin-image">
+                    <figure><img src="~/Images/signin-image.jpg" alt="sing up image"></figure>
+                    <a asp-controller="Account" asp-action="Register" class="signup-image-link">Create an account</a>
+                </div>
+
+                <div class="signin-form">
+                    <h2 class="form-title">Sign In</h2>
+                    <form asp-action="Login" class="register-form" id="login-form">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <div class="form-group">
+                            <label asp-for="Email"><i class="zmdi zmdi-account material-icons-name"></i></label>
+                            <input asp-for="Email" name="your_name" id="your_name" placeholder="Your Email" />
+                            <span asp-validation-for="Email" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Password"><i class="zmdi zmdi-account material-icons-name"></i></label>
+                            <input asp-for="Password" name="your_name" id="your_name" placeholder="Your Password" />
+                            <span asp-validation-for="Password" class="text-danger"></span>
+                        </div>
+                        @*<div class="form-group">
+                            <input asp-for="RememberMe" type="checkbox" name="remember-me" id="remember-me" class="agree-term" />
+                            @Html.DisplayNameFor(model => model.RememberMe)
+
+                        </div>*@
+                        <div class="form-group">
+                            <input type="submit" value="SignIn" class="btn btn-primary" />
+                        </div>
+                    </form>
+                    <div class="social-login">
+                        <span class="social-label">Or login with</span>
+                        <ul class="socials">
+                            <li><a href="#"><i class="display-flex-center zmdi zmdi-facebook"></i></a></li>
+                            <li><a href="#"><i class="display-flex-center zmdi zmdi-twitter"></i></a></li>
+                            <li><a href="#"><i class="display-flex-center zmdi zmdi-google"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>       
+    </section>
+</div>
+
+

@@ -1,0 +1,108 @@
+﻿@model PagedList.IPagedList<CoreProject.Models.ViewModes.PlayerListViewModel>
+
+@{
+    ViewBag.Title = "Index";
+
+}
+<link href="~/CustomUi/jquery-ui.css" rel="stylesheet" />
+<link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+<br />
+<br />
+<h2 style="font-family:Algerian; text-align:center; color:brown;">EMPLOYEE INFORMATION</h2>
+@using (Html.BeginForm("Index", "Player", FormMethod.Get))
+{
+    <p style="margin-left:80px">
+        Find by Name: @Html.TextBox("SearchString", ViewBag.CurrentFilter as string)
+        <input type="submit" name="submit" value="Search" />
+    </p>
+}
+<div style="width:90%; margin:0 auto; background-color:antiquewhite">
+    @Html.ActionLink("NEW EMPLOYEE", "Create", "Player", htmlAttributes: new { @class = "btn btn-outline-primary", @role = "button" })
+
+    <table class="table table-striped table-bordered" id="myDataTable" style="background-color: wheat">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>@Html.ActionLink("Name", "Index", new { sortOrder = ViewBag.SortNameParam })</th>
+                <th>Date Of Birth</th>
+                <th>Address</th>
+                <th>Email</th>
+                <th>Phone</th>
+                <th>@Html.ActionLink("Salary", "Index", new { sortOrder = ViewBag.Salary })</th>
+                <th>Designation</th>
+                <th>Image</th>
+                <th>Edit</th>
+                <th>Delete</th>
+                <th>Details</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                var photoPath = "~/Images/" + (item.ImageUrl ?? "no.png");
+                <tr>
+                    <td>@Html.DisplayFor(p => item.PlayerID)</td>
+                    <td>@Html.DisplayFor(p => item.Name)</td>
+                    <td>@Convert.ToString(String.Format("{0:MM/dd/yyyy}", item.DoB))</td>
+                    <td>@Html.DisplayFor(p => item.Team)</td>
+                    <td>@Html.DisplayFor(p => item.Email)</td>
+                    <td>@Html.DisplayFor(p => item.Phone)</td>
+                    <td>@Html.DisplayFor(p => item.Salary)</td>
+                    <td>@Html.DisplayFor(p => item.GradeName)</td>
+                    <td><img src="@photoPath" height="80" width="70" asp-append-version="true" /></td>
+                    @*<td><img src="@photoPath" height="70" width="70" /></td>*@
+                    <td>@Html.ActionLink("Edit", "Edit", new { id = item.PlayerID }, htmlAttributes: new { @class = "btn btn-outline-primary", @role = "button" })</td>
+                    <td>@Html.ActionLink("Delete", "Delete", new { id = item.PlayerID }, htmlAttributes: new { @class = "btn btn-outline-danger", @role = "button" })</td>
+                    <td><a href="#" name="Details" onclick="DetailsRecord('+@item.PlayerID+')" class="btn btn-success">Details</a></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    Page @(Model.PageCount<Model.PageNumber?0:Model.PageNumber) of @Model.PageCount
+
+
+
+
+    @*@Html.PagedListPager(Model, page => Url.Action("Index",*@
+    @*new
+         {
+        page,
+        sortOrder = ViewBag.CurrentSort,
+        currentFilter = ViewBag.currentFilter
+        }))*@
+
+    <div id="partialDiv">
+
+    </div>
+</div>
+
+@*<script src="~/lib/jquery/dist/jquery.js"></script>*@
+<script src="~/jquery/jquery.js"></script>
+@*<script src="~/lib/jqueryui/jquery-ui.min.js"></script>*@
+<script src="~/jqueryui/jquery-ui.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+
+
+
+<script>
+    function DetailsRecord(PlayerID) {
+        $.ajax({
+            url: "/Player/Details?PlayerID=" + PlayerID,
+            type: 'GET',
+            data: '',
+            contentType: 'application/json; charset=utf-8',
+            success: function (data) {
+                $('#partialDiv').show();
+                $('#partialDiv').html(data);
+            },
+            error: function () {
+                alert('Error Occured.');
+            }
+        })
+    }
+</script>
+<div>
+    @Html.ActionLink("Go to Grade", "GradeList", "Grade")
+</div>
+

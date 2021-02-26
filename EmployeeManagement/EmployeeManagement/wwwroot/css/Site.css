@@ -1,0 +1,17 @@
+﻿.btn {
+width:80px;
+}
+.imageThumbnail {
+height:200px;
+width:auto;
+}
+.COVER{
+    background-image:url(../Images/unsplash.jpg);
+    background-size:cover;
+    background-attachment:fixed;
+}
+/*.container {
+    background-image: url(../Images/unsplash.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}*/
